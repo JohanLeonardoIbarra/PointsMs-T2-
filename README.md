@@ -1,0 +1,3 @@
+# Pointmanager
+
+User points administrator.
